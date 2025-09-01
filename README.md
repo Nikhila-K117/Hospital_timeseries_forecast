@@ -38,6 +38,7 @@
 
 **Project Structure**
 hospital-time-series-forecast
+
 ├── notebook.ipynb      # Jupyter Notebook with full workflow
 
 ├── model_forecasts.csv # Forecast outputs for Power BI
